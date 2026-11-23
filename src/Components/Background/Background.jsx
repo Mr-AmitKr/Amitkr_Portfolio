@@ -46,7 +46,7 @@ const Background = () => {
       <div className="fixed inset-0 z-0 overflow-hidden">
         <img
           className="h-full w-full object-cover"
-          src="/src/images/PicForPortfolio.png"
+          src="/images/PicForPortfolio.png"
           alt="Background"
           style={{
             filter: `blur(${blurAmount}px)`,
