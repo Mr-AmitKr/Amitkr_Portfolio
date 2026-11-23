@@ -1,8 +1,7 @@
 
-import React from "react";
-import ProfileCard from "@/components/ProfileCard";
+import ProfileCard from "@/Components/ProfileCard";
 import { useNavigate } from "react-router-dom";
-import RotatingText from "@/components/RotatingText";
+import RotatingText from "@/Components/RotatingText";
 import ScrollFloat from "@/Components/ScrollFloat";
 
 const AboutMe = () => {
