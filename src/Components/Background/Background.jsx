@@ -1,9 +1,8 @@
 import Navbar from "../Navbar/Navbar";
 import AboutMe from "../Sections/AboutMe";
-import Aboutme from "../Sections/Aboutme/Aboutme";
 import HomePage from "../Sections/HomePage/HomePage";
-import React, { useEffect, useState } from "react";
-import ScrollReveal from '@/components/ScrollReveal';
+import { useEffect, useState } from "react";
+
 import Resume from "../Sections/Resume/Resume";
 import Projects from "../Sections/Projects/Projects";
 import ContactMe from "../Sections/ContactMe/ContactMe";

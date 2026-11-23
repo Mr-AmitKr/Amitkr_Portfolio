@@ -1,4 +1,4 @@
-import React from "react";
+
 import RotatingText from "@/Components/RotatingText";
 
 const Aboutme = () => {

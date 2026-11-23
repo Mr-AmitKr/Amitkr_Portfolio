@@ -1,5 +1,5 @@
 
-import React, { useState } from "react";
+import { useState } from "react";
 import Button from "../../Button/Button";
 import { FiArrowRight, FiLinkedin } from "react-icons/fi";
 import { FaInstagram, FaGithub } from "react-icons/fa";

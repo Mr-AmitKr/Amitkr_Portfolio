@@ -1,6 +1,6 @@
 import Button from "../../Button/Button";
 import { FiArrowRight } from "react-icons/fi";
-import ScrollReveal from "@/components/ScrollReveal";
+import ScrollReveal from "@/Components/ScrollReveal";
 
 const HomePage = () => {
   return (

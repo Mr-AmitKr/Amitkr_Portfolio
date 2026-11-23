@@ -1,5 +1,3 @@
-
-import React from "react";
 import Button from "../../Button/Button";
 import { FiArrowRight } from "react-icons/fi";
 import { CiSaveDown1 } from "react-icons/ci";
