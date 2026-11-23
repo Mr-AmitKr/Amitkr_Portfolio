@@ -50,7 +50,7 @@ const AboutMe = () => {
             enableMobileTilt={true}
             onContactClick={contactMe}
             behindGlowColor="rgba(125, 190, 255, 0.67)"
-            iconUrl="/assets/react.svg"
+            iconUrl="/src/assets/react.svg"
             behindGlowEnabled
             innerGradient="linear-gradient(145deg,#60496e8c 0%,#71C4FF44 100%)"
           />
