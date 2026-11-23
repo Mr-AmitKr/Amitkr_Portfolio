@@ -1,0 +1,12 @@
+/* navbar-links all screen visibility */
+@media only screen and (max-width: 768px) {
+    ul {
+        display: none;
+    }
+    .menuopen {
+        display: block;
+    }
+    .menuclose {
+        display: none;
+    }
+}
