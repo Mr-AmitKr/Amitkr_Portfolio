@@ -3,6 +3,8 @@ import ProfileCard from "@/Components/ProfileCard";
 import { useNavigate } from "react-router-dom";
 import RotatingText from "@/Components/RotatingText";
 import ScrollFloat from "@/Components/ScrollFloat";
+import reactIcon  from "/src/assets/react.svg";
+
 
 const AboutMe = () => {
   const navigate = useNavigate();
@@ -50,7 +52,7 @@ const AboutMe = () => {
             enableMobileTilt={true}
             onContactClick={contactMe}
             behindGlowColor="rgba(125, 190, 255, 0.67)"
-            iconUrl="/src/assets/react.svg"
+            iconUrl={reactIcon}
             behindGlowEnabled
             innerGradient="linear-gradient(145deg,#60496e8c 0%,#71C4FF44 100%)"
           />

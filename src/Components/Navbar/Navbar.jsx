@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./Navbar.css";
 import { FiAlignJustify, FiX } from "react-icons/fi";
+import AmitKr from "/src/image/AmitKr.png";
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -30,7 +31,7 @@ const Navbar = () => {
       <div className="shrink-0 z-20">
         <a href="/"><img
           className="h-10 w-auto object-contain"
-          src="/src/image/AmitKr.png"
+          src={AmitKr}
           alt=""
         /></a>
       </div>
