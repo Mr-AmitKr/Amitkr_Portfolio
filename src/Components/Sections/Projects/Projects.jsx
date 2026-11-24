@@ -1,6 +1,8 @@
 import Button from "../../Button/Button";
 import { FiArrowRight } from "react-icons/fi";
 import { CiSaveDown1 } from "react-icons/ci";
+import netflixScreenshot from "../../../image/NetFlixScreenshot.png";
+import mdmsScreenshot from "../../../image/MDMS_Screensshot.png";
 
 const Projects = () => {
   const sectionLabel =
@@ -104,7 +106,7 @@ const Projects = () => {
     {
       number: "P.01",
       title: "Netflix Clone",
-      image: "/src/image/NetFlixScreenshot.png",
+      image: netflixScreenshot,
       alt: "Netflix Clone project screenshot",
       description:
         "Developed a responsive Netflix Clone featuring movie browsing, dynamic content sections, modern UI, and an immersive streaming-inspired user experience.",
@@ -116,7 +118,7 @@ const Projects = () => {
     {
       number: "P.02",
       title: "MDMS_AMI (Meter Management System)",
-      image: "/src/image/MDMS_Screensshot.png",
+      image: mdmsScreenshot,
       alt: "MDMS AMI dashboard screenshot",
       description:
         "Developed an MDMS dashboard for smart meter management, configuration, monitoring, and data collection.",

@@ -197,7 +197,7 @@ const entryDescription =
 
               {/* Details */}
               <div>
-                <h3 className={entryTitle}>B.TECH IN COMPUTER SCIENCE</h3>
+                <h3 className={entryTitle}>B.Tech in Computer Science</h3>
 
                 <h4 className={entrySubtitle}>
                   Netaji Subhas University - Jamshedpur - India
@@ -223,11 +223,11 @@ const entryDescription =
               {/* Details */}
               <div>
                 <h3 className={entryTitle}>
-                  DIPLOMA IN MECHANICAL ENGINEERING
+                 Diploma in Mechanical Engineering
                 </h3>
 
                 <h4 className={entrySubtitle}>
-                  BHUBNESWAR ENGINEERING COLLEGE - Odisha - India
+                  Bhubneswar Engineering College - Odisha - India
                 </h4>
 
                 <p className={entryDescription}>
