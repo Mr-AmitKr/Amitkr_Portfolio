@@ -104,7 +104,7 @@ const Projects = () => {
     {
       number: "P.01",
       title: "Netflix Clone",
-      image: "/src/images/NetFlixScreenshot.png",
+      image: "/src/image/NetFlixScreenshot.png",
       alt: "Netflix Clone project screenshot",
       description:
         "Developed a responsive Netflix Clone featuring movie browsing, dynamic content sections, modern UI, and an immersive streaming-inspired user experience.",
@@ -116,7 +116,7 @@ const Projects = () => {
     {
       number: "P.02",
       title: "MDMS_AMI (Meter Management System)",
-      image: "/src/images/MDMS_Screensshot.png",
+      image: "/src/image/MDMS_Screensshot.png",
       alt: "MDMS AMI dashboard screenshot",
       description:
         "Developed an MDMS dashboard for smart meter management, configuration, monitoring, and data collection.",

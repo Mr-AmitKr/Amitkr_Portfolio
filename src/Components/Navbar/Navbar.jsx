@@ -30,7 +30,7 @@ const Navbar = () => {
       <div className="shrink-0 z-20">
         <a href="/"><img
           className="h-10 w-auto object-contain"
-          src="src/images/AmitKr.png"
+          src="/src/image/AmitKr.png"
           alt=""
         /></a>
       </div>
